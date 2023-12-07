@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khananamiti.
-- 👀 I’m interested in frontend, mobile development for android.
-- 🌱 I’m currently studying to be a programmer in my 2nd year in college.
+- 👀 I’m interested in frontend, Figma.
+- 🌱 Now I work as a software engineer.
 - 💞️ I want to create cool websites.
 - 📫 How to reach me ... write me an email: nuralinova.kha@gmail.com or nuralinova_kha@mail.ru 
